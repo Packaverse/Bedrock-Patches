@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>BEComTweaks/resource-packs</h1>
+<h1>Bedrock Patches</h1>
 
 ![Commit Activity](https://img.shields.io/github/commit-activity/w/BEComTweaks/resource-packs?style=for-the-badge&label=Commits&color=purple)
 ![GitHub repo size](https://img.shields.io/github/repo-size/BEComTweaks/resource-packs?style=for-the-badge&label=Size&color=pink)
@@ -11,7 +11,7 @@
 </div>
 
 > [!IMPORTANT]
-> As of 2/7/24, BedrockTweaks/Files will be more favoured compared to BEComTweaks.
+> As of 25/3/25 Bedrock patches is not an open source 
 >
 > Contributions here will also be directed to BedrockTweaks/Files.
 
@@ -21,5 +21,3 @@ A repo containing every single tweak <b>possible</b> ported from <a href="https:
 Docs are available at [here](https://becomtweaks.github.io/docs)
 
 Pull Requests are greatly appreciated as I do not want this to be a single person project. I can get pretty drained out from projects.
-
-</div>
