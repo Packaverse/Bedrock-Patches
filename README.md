@@ -14,10 +14,3 @@
 > As of 25/3/25 Bedrock patches is not an open source 
 >
 > Contributions here will also be directed to BedrockTweaks/Files.
-
-<div align="left">
-A repo containing every single tweak <b>possible</b> ported from <a href="https://vanillatweaks.net/picker/resource-packs">Vanilla Tweaks' Resource Packs</a> with a Web Interface.
-
-Docs are available at [here](https://becomtweaks.github.io/docs)
-
-Pull Requests are greatly appreciated as I do not want this to be a single person project. I can get pretty drained out from projects.
